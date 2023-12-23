@@ -1,1 +1,1 @@
-this is a project demonstraating explanable ai using lime framework. a spotify 
+this is a project demonstraating explanable ai using lime framework. LIME, an acronym for Local Interpretable Model-agnostic Explanations, is a valuable tool for improving our understanding of complex computer models. We will use tabular Explainer, which is designed for tabular  structured data. It works well with traditional machine learning models. spotify user data and credit card default data is used for demonstration.
